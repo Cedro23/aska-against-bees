@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #191d26;
+  --color-ink-raised: #232833;
+  --color-paper: #e4dfd3;
+  --color-chrome: #f2b705;
+  --color-rule: #3a4150;
+  --color-muted: #8a93a5;
+
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-plex-sans);
+  --font-data: var(--font-plex-mono);
+
+  --spacing-overlap: 2.5rem;
+}
